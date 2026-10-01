@@ -1,0 +1,98 @@
+[
+  {
+    "cp": 9,
+    "name": "CHARACTER TABULATION",
+    "category": "Cc",
+    "combining": 0
+  },
+  {
+    "cp": 10,
+    "name": "LINE FEED",
+    "category": "Cc",
+    "combining": 0
+  },
+  {
+    "cp": 13,
+    "name": "CARRIAGE RETURN",
+    "category": "Cc",
+    "combining": 0
+  },
+  {
+    "cp": 32,
+    "name": "SPACE",
+    "category": "Zs",
+    "combining": 0
+  },
+  {
+    "cp": 700,
+    "name": "MODIFIER LETTER APOSTROPHE",
+    "category": "Lm",
+    "combining": 0
+  },
+  {
+    "cp": 771,
+    "name": "COMBINING TILDE",
+    "category": "Mn",
+    "combining": 230
+  },
+  {
+    "cp": 772,
+    "name": "COMBINING MACRON",
+    "category": "Mn",
+    "combining": 230
+  },
+  {
+    "cp": 774,
+    "name": "COMBINING BREVE",
+    "category": "Mn",
+    "combining": 230
+  },
+  {
+    "cp": 775,
+    "name": "COMBINING DOT ABOVE",
+    "category": "Mn",
+    "combining": 230
+  },
+  {
+    "cp": 776,
+    "name": "COMBINING DIAERESIS",
+    "category": "Mn",
+    "combining": 230
+  },
+  {
+    "cp": 803,
+    "name": "COMBINING DOT BELOW",
+    "category": "Mn",
+    "combining": 220
+  },
+  {
+    "cp": 804,
+    "name": "COMBINING DIAERESIS BELOW",
+    "category": "Mn",
+    "combining": 220
+  },
+  {
+    "cp": 816,
+    "name": "COMBINING TILDE BELOW",
+    "category": "Mn",
+    "combining": 220
+  },
+  {
+    "cp": 817,
+    "name": "COMBINING MACRON BELOW",
+    "category": "Mn",
+    "combining": 220
+  },
+  {
+    "cp": 2404,
+    "name": "DEVANAGARI DANDA",
+    "category": "Po",
+    "combining": 0
+  },
+  {
+    "cp": 8208,
+    "name": "HYPHEN",
+    "category": "Pd",
+    "combining": 0
+  }
+]
